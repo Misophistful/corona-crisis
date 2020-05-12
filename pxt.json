@@ -5,7 +5,8 @@
     "dependencies": {
         "device": "*",
         "pxt-arcade-image-transform": "github:robo-technical-group/pxt-arcade-image-transform#v1.0.8",
-        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5"
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.0.5",
+        "settings-blocks": "github:microsoft/pxt-settings-blocks#v1.0.0"
     },
     "files": [
         "main.blocks",
